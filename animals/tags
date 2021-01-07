@@ -11,13 +11,16 @@
 !_TAG_PROGRAM_VERSION	5.9.0	/e053bcd0/
 Cat	cat.py	/^class Cat(animal.Animal):$/;"	c
 Dog	dog.py	/^class Dog(animal.Animal):$/;"	c
+Leopard	leopard.py	/^class Leopard(animal.Animal):$/;"	c
 Lion	lion.py	/^class Lion(animal.Animal):$/;"	c
 Sheep	sheep.py	/^class Sheep(animal.Animal):$/;"	c
 __init__	cat.py	/^    def __init__(self):$/;"	m	class:Cat
 __init__	dog.py	/^    def __init__(self):$/;"	m	class:Dog
+__init__	leopard.py	/^    def __init__(self):$/;"	m	class:Leopard
 __init__	lion.py	/^    def __init__(self):$/;"	m	class:Lion
 __init__	sheep.py	/^    def __init__(self):$/;"	m	class:Sheep
 get_kind	cat.py	/^    def get_kind(self):$/;"	m	class:Cat
 get_kind	dog.py	/^    def get_kind(self):$/;"	m	class:Dog
+get_kind	leopard.py	/^    def get_kind(self):$/;"	m	class:Leopard
 get_kind	lion.py	/^    def get_kind(self):$/;"	m	class:Lion
 get_kind	sheep.py	/^    def get_kind(self):$/;"	m	class:Sheep
