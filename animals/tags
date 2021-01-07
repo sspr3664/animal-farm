@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/ec2-user/vim/learn/05/animal-farm/animals/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/e053bcd0/
+Cat	cat.py	/^class Cat(animal.Animal):$/;"	c
+Dog	dog.py	/^class Dog(animal.Animal):$/;"	c
+Lion	lion.py	/^class Lion(animal.Animal):$/;"	c
+Sheep	sheep.py	/^class Sheep(animal.Animal):$/;"	c
+__init__	cat.py	/^    def __init__(self):$/;"	m	class:Cat
+__init__	dog.py	/^    def __init__(self):$/;"	m	class:Dog
+__init__	lion.py	/^    def __init__(self):$/;"	m	class:Lion
+__init__	sheep.py	/^    def __init__(self):$/;"	m	class:Sheep
+get_kind	cat.py	/^    def get_kind(self):$/;"	m	class:Cat
+get_kind	dog.py	/^    def get_kind(self):$/;"	m	class:Dog
+get_kind	lion.py	/^    def get_kind(self):$/;"	m	class:Lion
+get_kind	sheep.py	/^    def get_kind(self):$/;"	m	class:Sheep
